@@ -6,9 +6,13 @@ The model wouldn't need to match two visuals. It already knows the underlying st
 
 ## `comparative-constitutional-challenges`
 
-Visualizing constitutional challenges affecting communities of color.
+Visualize cases: constitutional challenges affecting communities of color.
 
 The _Federal Reporter_ contains all reported cases in the nation's lower federal courts.
+
+## `gh-stolen-land`
+
+Visualize land that was stolen by Land Comission/Court of Private Land Claims after the Treaty of Guadalupe Hidalgo.
 
 ## `reactive-viz`
 
